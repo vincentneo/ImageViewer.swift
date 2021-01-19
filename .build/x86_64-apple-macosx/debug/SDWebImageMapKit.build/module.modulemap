@@ -1,4 +1,0 @@
-module SDWebImageMapKit {
-    umbrella header "/Users/sandindulic/Documents/ImageViewer.swift/.build/checkouts/SDWebImage/SDWebImageMapKit/include/SDWebImageMapKit/SDWebImageMapKit.h"
-    export *
-}

@@ -1,4 +1,0 @@
-module ImageViewer_swift {
-    header "/Users/sandindulic/Documents/ImageViewer.swift/.build/x86_64-apple-macosx/debug/ImageViewer_swift.build/ImageViewer.swift-Swift.h"
-    requires objc
-}
