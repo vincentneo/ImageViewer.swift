@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "ec64cafe94d08acb5b286f3c8aa435c5"
+build_time: [1611071485, 287992000]
+inputs:
+  "/Users/sandindulic/Documents/ImageViewer.swift/Sources/ImageCarouselViewController.swift": !dirty [1611070695, 425119562]
+  "/Users/sandindulic/Documents/ImageViewer.swift/Sources/ImageItem.swift": !dirty [1611070695, 428327914]
+  "/Users/sandindulic/Documents/ImageViewer.swift/Sources/ImageViewerController.swift": !dirty [1611070695, 425770605]
+  "/Users/sandindulic/Documents/ImageViewer.swift/Sources/ImageViewerOption.swift": !dirty [1611070695, 426167435]
+  "/Users/sandindulic/Documents/ImageViewer.swift/Sources/ImageViewerTheme.swift": !dirty [1611070695, 426163653]
+  "/Users/sandindulic/Documents/ImageViewer.swift/Sources/ImageViewerTransitionPresentationManager.swift": !dirty [1611070695, 425448184]
+  "/Users/sandindulic/Documents/ImageViewer.swift/Sources/SimpleImageDatasource.swift": !dirty [1611070695, 428124852]
+  "/Users/sandindulic/Documents/ImageViewer.swift/Sources/UIImageView_Extensions.swift": !dirty [1611070695, 428339788]
+  "/Users/sandindulic/Documents/ImageViewer.swift/Sources/UINavigationBar_Extensions.swift": !dirty [1611070695, 428030981]
+  "/Users/sandindulic/Documents/ImageViewer.swift/Sources/UIView_Extensions.swift": !dirty [1611070695, 428700078]
